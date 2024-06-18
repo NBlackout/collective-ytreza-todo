@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtrezaTooling.Todo", "YtrezaTooling.Todo\YtrezaTooling.Todo.csproj", "{067644CE-3F21-4A9B-8FD6-0539AA24959A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{FE61CE8F-0667-41A3-85F5-5CC31273B8A6}"
+	ProjectSection(SolutionItems) = preProject
+		ExampleMapping.md = ExampleMapping.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtrezaTooling.Todo.Tests", "YtrezaTooling.Todo.Tests\YtrezaTooling.Todo.Tests.csproj", "{A8394D12-74B7-47CB-92E6-861FA1F12D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067644CE-3F21-4A9B-8FD6-0539AA24959A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067644CE-3F21-4A9B-8FD6-0539AA24959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067644CE-3F21-4A9B-8FD6-0539AA24959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067644CE-3F21-4A9B-8FD6-0539AA24959A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8394D12-74B7-47CB-92E6-861FA1F12D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8394D12-74B7-47CB-92E6-861FA1F12D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8394D12-74B7-47CB-92E6-861FA1F12D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8394D12-74B7-47CB-92E6-861FA1F12D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
